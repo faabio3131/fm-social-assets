@@ -1,2 +1,3 @@
 # fm-social-assets
-imagens-fm-fotos
+
+Midias publicas das publicacoes da FM Tecnologia e fila de publicacao do Instagram (queue.json).
